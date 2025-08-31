@@ -2,8 +2,7 @@
 <p align="center">
   <img src="header banner.jpeg" alt="Header Banner" width="100%">
 </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100">
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -16,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <br><br>
-
+# *Hello World, I'm ADIL :-)*
 <!-- Two-Column Layout -->
 <table>
 <tr>
@@ -52,4 +51,34 @@ I bring a balance of **DevOps efficiency and robust cloud security**, delivering
   <img src="jenkins.png" alt="Jenkins" width="60" height="60"/>
   <img src="Grafana.png" alt="Grafana" width="60" height="60"/>
   <img src="Prometheus.png" alt="Prometheus" width="60" height="60"/>
+</p>
+<br><br>
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
+# *BADGES*
+
+<!-- Clickable Credly logo next to it -->
+  <a href="https://www.credly.com/users/adil-younus" target="_blank" title="Credly">
+    <img src="credly.png" width="75" style="vertical-align: middle; margin-left: 8px;"/>
+  </a>
+</h1>
+
+
+<p align="center">
+  <!-- ROW 1 (110px, tighter spacing) -->
+  
+  <img src="aws-educate-introduction-to-cloud-101.png" alt="AWS Cloud 101" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-networking.png" alt="AWS Networking" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-security.png" alt="AWS Security" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-storage.png" alt="AWS Cloud Ops" width="110" style="margin-right:-8px;"/>
+  <img src="aws-knowledge-amazon-eks.png" alt="AWS EKS" width="110" style="margin-right:-8px;"/>
+  <img src="aws-knowledge-security-champion.png" alt="AWS Security Champion" width="110"/>
+</p>
+
+<p align="center">
+  <!-- ROW 2 (90px, neat spacing) -->
+  <img src="docker-essentials-a-developer-introduction (1).png" alt="Docker Essentials" width="90" style="padding:5px;"/>
+  <img src="advanced-kubernetes-operators.png" alt="Advanced Kubernetes" width="90" style="padding:5px;"/>
 </p>
