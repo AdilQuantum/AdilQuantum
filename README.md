@@ -82,3 +82,15 @@ I bring a balance of **DevOps efficiency and robust cloud security**, delivering
   <img src="docker-essentials-a-developer-introduction (1).png" alt="Docker Essentials" width="90" style="padding:5px;"/>
   <img src="advanced-kubernetes-operators.png" alt="Advanced Kubernetes" width="90" style="padding:5px;"/>
 </p>
+
+# *CERTS*
+
+</h1>
+<p align="center">
+  
+  <img src="container sec.jpeg" alt="Containers" width="180" style="margin-right:-6px;"/>
+  <img src="kube core.jpeg" alt="Kubernetes Core Concepts" width="180" style="margin-right:-6px;"/>
+  <img src="eks sec.jpeg" alt="eks" width="180"/>
+ 
+  
+</p>
