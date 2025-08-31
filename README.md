@@ -94,3 +94,26 @@ I bring a balance of **DevOps efficiency and robust cloud security**, delivering
  
   
 </p>
+
+
+# *CONNECT ME AT*
+<p align="center">
+
+
+<p align="center">
+  <a href="adil16smy@gmail.com" title="Email">
+    <img src="gmail.png" width="45" height="50" style="margin-right: 15px; border: none;"/>
+  </a>
+
+  <a href="tel:+91 6309619173" title="Phone">
+    <img src="phone-call.png" width="45" height="50" style="margin-right: 15px; border: none;"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammad-younus-al-adil-sunkesula" title="LinkedIn">
+    <img src="linkedin.png" width="45" height="50" style="margin-right: 15px; border: none;"/>
+  </a>
+
+  <a href="https://www.credly.com/users/adil-younus.1f89052f" title="Credly">
+    <img src="credly.png" width="70" height="70" style="border: none;"/>
+  </a>
+</p>
